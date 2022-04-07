@@ -17,15 +17,7 @@ public class QuestionSO : ScriptableObject
 
     public string GetAnswer(int index)
     {
-        if (index > 0 && index < 5 )
-        {
-            return answers[index];
-        }
-        else
-        {
-            return "Wrong number";
-        }
-        
+        return answers[index];
     }
     public string GetQuestion()
     {
