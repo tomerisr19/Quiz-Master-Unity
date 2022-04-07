@@ -12,3 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2e7ca13d570fa142938c5b3a2b86424, type: 3}
   m_Name: Question 5
   m_EditorClassIdentifier: 
+  question: what is the correct syntax for creating a new integer variable with an
+    inital value of 12?
+  answers:
+  - int num += 12;
+  - int num = "12";
+  - int num = 12;
+  - int num = '12';
+  correctAnswerIndex: 0
