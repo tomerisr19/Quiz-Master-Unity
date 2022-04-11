@@ -12,3 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2e7ca13d570fa142938c5b3a2b86424, type: 3}
   m_Name: Question 1
   m_EditorClassIdentifier: 
+  question: Which footbal team is the best in israel ?
+  answers:
+  - Maccabi Haifa
+  - Apoel Tel Aviv
+  - Maccabi Natanya
+  - Apoel Petah Tikva
+  correctAnswerIndex: 0

@@ -12,3 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2e7ca13d570fa142938c5b3a2b86424, type: 3}
   m_Name: Question 2
   m_EditorClassIdentifier: 
+  question: What are we doing when we call a "method" ?
+  answers:
+  - Naming our methods properly
+  - Telling the code inside method to execute
+  - Returning a value from another place in code
+  - Phoning our actor friend
+  correctAnswerIndex: 1

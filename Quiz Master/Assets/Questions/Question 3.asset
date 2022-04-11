@@ -12,3 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2e7ca13d570fa142938c5b3a2b86424, type: 3}
   m_Name: Question 3
   m_EditorClassIdentifier: 
+  question: if all other counditions are false, which conditional statement would
+    you use as a catch all ?
+  answers:
+  - if
+  - else if
+  - else
+  - when
+  correctAnswerIndex: 2

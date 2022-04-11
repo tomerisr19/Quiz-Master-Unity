@@ -12,3 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2e7ca13d570fa142938c5b3a2b86424, type: 3}
   m_Name: Question 4
   m_EditorClassIdentifier: 
+  question: A variable can be thought of as what ?
+  answers:
+  - Data that goes inside a box
+  - A box that can contain data
+  - Data that canwt be changed
+  - Data that can only be used once
+  correctAnswerIndex: 1
